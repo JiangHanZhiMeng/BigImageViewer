@@ -11,6 +11,7 @@ View](https://github.com/davemorrissey/subsampling-scale-image-view),
 [Glide](https://github.com/bumptech/glide), and
 [Picasso](https://github.com/square/picasso). Even with gif and webp support!
 
+大图像查看器支持平移和缩放，很少的内存使用和全功能的图像加载选择。由子采样比例图像视图，壁画，滑翔，毕加索。即使有gif和webp支持!
 
 ## Demo
 
